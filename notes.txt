@@ -1,0 +1,7 @@
+1. Grab all games
+2. Make a list of all players in those games
+3. For each player, grab their stats for the last 15 games
+4. Create logic to count  2+, 4+ assits, rebounds, points, etc for each player
+    - Determine how to host that data - all stats for each player. 
+    - Pandas dataframe? Since we can export out to an excel?
+    - Store in a DB?
